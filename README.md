@@ -1,0 +1,2 @@
+  Amazon Virtual Shopping Assistant 🤖🛒
+# The Amazon Virtual Shopping Assistant helps customers with common tasks like tracking orders, finding products, handling returns, and more. It offers quick and accurate responses to your queries, ensuring a smooth and efficient shopping experience. Whether you need help with payment, shipping, or product recommendations, this assistant is here to support you 24/7.
